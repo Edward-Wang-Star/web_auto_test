@@ -1,0 +1,231 @@
+2020-03-27 14:09:52 method: com.lemon.utils.BrowserUtil.openBrowser(BrowserUtil.java:33) - [ INFO ]----=============打开Chrome浏览器=========
+2020-03-27 14:10:30 method: com.lemon.utils.BrowserUtil.openBrowser(BrowserUtil.java:33) - [ INFO ]----=============打开Chrome浏览器=========
+2020-03-27 14:10:30 method: com.lemon.utils.BrowserUtil.maxBrowser(BrowserUtil.java:73) - [ INFO ]----===============浏览器最大化================
+2020-03-27 14:10:36 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='手机号']】输入了【15859019266】
+2020-03-27 14:10:36 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='密码']】输入了【Ab%12345】
+2020-03-27 14:10:36 method: com.lemon.common.BasePage.click(BasePage.java:26) - [ INFO ]----点击了元素【By.xpath: //button[text()='登录']】
+2020-03-27 14:10:37 method: com.lemon.common.BasePage.getElementText(BasePage.java:45) - [ INFO ]----获取元素【By.className: layui-layer-content】文本值为【此账号没有经过授权，请联系管理员!】
+2020-03-27 14:10:41 method: com.lemon.utils.BrowserUtil.openBrowser(BrowserUtil.java:33) - [ INFO ]----=============打开Chrome浏览器=========
+2020-03-27 14:10:41 method: com.lemon.utils.BrowserUtil.maxBrowser(BrowserUtil.java:73) - [ INFO ]----===============浏览器最大化================
+2020-03-27 14:10:46 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='手机号']】输入了【13323234545】
+2020-03-27 14:10:46 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='密码']】输入了【123456】
+2020-03-27 14:10:46 method: com.lemon.common.BasePage.click(BasePage.java:26) - [ INFO ]----点击了元素【By.xpath: //button[text()='登录']】
+2020-03-27 14:10:46 method: com.lemon.common.BasePage.getElementText(BasePage.java:45) - [ INFO ]----获取元素【By.className: layui-layer-content】文本值为【帐号或密码错误!】
+2020-03-27 14:10:50 method: com.lemon.utils.BrowserUtil.openBrowser(BrowserUtil.java:33) - [ INFO ]----=============打开Chrome浏览器=========
+2020-03-27 14:10:50 method: com.lemon.utils.BrowserUtil.maxBrowser(BrowserUtil.java:73) - [ INFO ]----===============浏览器最大化================
+2020-03-27 14:10:57 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='手机号']】输入了【】
+2020-03-27 14:10:57 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='密码']】输入了【Ab%12345】
+2020-03-27 14:10:57 method: com.lemon.common.BasePage.click(BasePage.java:26) - [ INFO ]----点击了元素【By.xpath: //button[text()='登录']】
+2020-03-27 14:10:57 method: com.lemon.common.BasePage.getElementText(BasePage.java:45) - [ INFO ]----获取元素【By.className: form-error-info】文本值为【请输入手机号】
+2020-03-27 14:11:01 method: com.lemon.utils.BrowserUtil.openBrowser(BrowserUtil.java:33) - [ INFO ]----=============打开Chrome浏览器=========
+2020-03-27 14:11:01 method: com.lemon.utils.BrowserUtil.maxBrowser(BrowserUtil.java:73) - [ INFO ]----===============浏览器最大化================
+2020-03-27 14:11:12 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='手机号']】输入了【1585901925】
+2020-03-27 14:11:12 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='密码']】输入了【123456】
+2020-03-27 14:11:12 method: com.lemon.common.BasePage.click(BasePage.java:26) - [ INFO ]----点击了元素【By.xpath: //button[text()='登录']】
+2020-03-27 14:11:12 method: com.lemon.common.BasePage.getElementText(BasePage.java:45) - [ INFO ]----获取元素【By.className: form-error-info】文本值为【请输入正确的手机号】
+2020-03-27 14:11:15 method: com.lemon.utils.BrowserUtil.openBrowser(BrowserUtil.java:33) - [ INFO ]----=============打开Chrome浏览器=========
+2020-03-27 14:11:15 method: com.lemon.utils.BrowserUtil.maxBrowser(BrowserUtil.java:73) - [ INFO ]----===============浏览器最大化================
+2020-03-27 14:11:22 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='手机号']】输入了【158590192534】
+2020-03-27 14:11:22 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='密码']】输入了【12345】
+2020-03-27 14:11:22 method: com.lemon.common.BasePage.click(BasePage.java:26) - [ INFO ]----点击了元素【By.xpath: //button[text()='登录']】
+2020-03-27 14:11:22 method: com.lemon.common.BasePage.getElementText(BasePage.java:45) - [ INFO ]----获取元素【By.className: form-error-info】文本值为【请输入正确的手机号】
+2020-03-27 14:11:26 method: com.lemon.utils.BrowserUtil.openBrowser(BrowserUtil.java:33) - [ INFO ]----=============打开Chrome浏览器=========
+2020-03-27 14:11:26 method: com.lemon.utils.BrowserUtil.maxBrowser(BrowserUtil.java:73) - [ INFO ]----===============浏览器最大化================
+2020-03-27 14:11:30 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='手机号']】输入了【1585901925%】
+2020-03-27 14:11:30 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='密码']】输入了【12345】
+2020-03-27 14:11:30 method: com.lemon.common.BasePage.click(BasePage.java:26) - [ INFO ]----点击了元素【By.xpath: //button[text()='登录']】
+2020-03-27 14:11:30 method: com.lemon.common.BasePage.getElementText(BasePage.java:45) - [ INFO ]----获取元素【By.className: form-error-info】文本值为【请输入正确的手机号】
+2020-03-27 14:11:34 method: com.lemon.utils.BrowserUtil.openBrowser(BrowserUtil.java:33) - [ INFO ]----=============打开Chrome浏览器=========
+2020-03-27 14:11:34 method: com.lemon.utils.BrowserUtil.maxBrowser(BrowserUtil.java:73) - [ INFO ]----===============浏览器最大化================
+2020-03-27 14:11:41 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='手机号']】输入了【13323234545】
+2020-03-27 14:11:41 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='密码']】输入了【】
+2020-03-27 14:11:41 method: com.lemon.common.BasePage.click(BasePage.java:26) - [ INFO ]----点击了元素【By.xpath: //button[text()='登录']】
+2020-03-27 14:11:41 method: com.lemon.common.BasePage.getElementText(BasePage.java:45) - [ INFO ]----获取元素【By.className: form-error-info】文本值为【请输入密码】
+2020-03-27 14:11:44 method: com.lemon.utils.BrowserUtil.openBrowser(BrowserUtil.java:33) - [ INFO ]----=============打开Chrome浏览器=========
+2020-03-27 14:11:44 method: com.lemon.utils.BrowserUtil.maxBrowser(BrowserUtil.java:73) - [ INFO ]----===============浏览器最大化================
+2020-03-27 14:11:54 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='手机号']】输入了【13323234545】
+2020-03-27 14:11:54 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='密码']】输入了【13323234545】
+2020-03-27 14:11:54 method: com.lemon.common.BasePage.click(BasePage.java:26) - [ INFO ]----点击了元素【By.xpath: //button[text()='登录']】
+2020-03-27 17:46:08 method: com.lemon.utils.BrowserUtil.openBrowser(BrowserUtil.java:33) - [ INFO ]----=============打开Chrome浏览器=========
+2020-03-27 17:46:08 method: com.lemon.utils.BrowserUtil.maxBrowser(BrowserUtil.java:73) - [ INFO ]----===============浏览器最大化================
+2020-03-27 17:46:19 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='手机号']】输入了【13323234545】
+2020-03-27 17:46:19 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='密码']】输入了【lemon123456】
+2020-03-27 17:46:19 method: com.lemon.common.BasePage.click(BasePage.java:26) - [ INFO ]----点击了元素【By.xpath: //button[text()='登录']】
+2020-03-27 17:47:22 method: com.lemon.utils.BrowserUtil.openBrowser(BrowserUtil.java:33) - [ INFO ]----=============打开Chrome浏览器=========
+2020-03-27 17:47:22 method: com.lemon.utils.BrowserUtil.maxBrowser(BrowserUtil.java:73) - [ INFO ]----===============浏览器最大化================
+2020-03-27 17:47:27 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='手机号']】输入了【17850515617】
+2020-03-27 17:47:27 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='密码']】输入了【123456】
+2020-03-27 17:47:27 method: com.lemon.common.BasePage.click(BasePage.java:26) - [ INFO ]----点击了元素【By.xpath: //button[text()='登录']】
+2020-03-27 17:47:57 method: com.lemon.utils.BrowserUtil.openBrowser(BrowserUtil.java:33) - [ INFO ]----=============打开Chrome浏览器=========
+2020-03-27 17:47:57 method: com.lemon.utils.BrowserUtil.maxBrowser(BrowserUtil.java:73) - [ INFO ]----===============浏览器最大化================
+2020-03-27 17:48:00 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='手机号']】输入了【17850515617】
+2020-03-27 17:48:00 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='密码']】输入了【123456】
+2020-03-27 17:48:00 method: com.lemon.common.BasePage.click(BasePage.java:26) - [ INFO ]----点击了元素【By.xpath: //button[text()='登录']】
+2020-03-27 17:48:30 method: com.lemon.utils.BrowserUtil.openBrowser(BrowserUtil.java:33) - [ INFO ]----=============打开Chrome浏览器=========
+2020-03-27 17:48:30 method: com.lemon.utils.BrowserUtil.maxBrowser(BrowserUtil.java:73) - [ INFO ]----===============浏览器最大化================
+2020-03-27 17:48:33 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='手机号']】输入了【17850515617】
+2020-03-27 17:48:33 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='密码']】输入了【123456】
+2020-03-27 17:48:33 method: com.lemon.common.BasePage.click(BasePage.java:26) - [ INFO ]----点击了元素【By.xpath: //button[text()='登录']】
+2020-03-27 17:49:03 method: com.lemon.utils.BrowserUtil.openBrowser(BrowserUtil.java:33) - [ INFO ]----=============打开Chrome浏览器=========
+2020-03-27 17:49:03 method: com.lemon.utils.BrowserUtil.maxBrowser(BrowserUtil.java:73) - [ INFO ]----===============浏览器最大化================
+2020-03-27 17:49:06 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='手机号']】输入了【17850515617】
+2020-03-27 17:49:06 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='密码']】输入了【123456】
+2020-03-27 17:49:06 method: com.lemon.common.BasePage.click(BasePage.java:26) - [ INFO ]----点击了元素【By.xpath: //button[text()='登录']】
+2020-03-27 17:49:37 method: com.lemon.utils.BrowserUtil.openBrowser(BrowserUtil.java:33) - [ INFO ]----=============打开Chrome浏览器=========
+2020-03-27 17:49:37 method: com.lemon.utils.BrowserUtil.maxBrowser(BrowserUtil.java:73) - [ INFO ]----===============浏览器最大化================
+2020-03-27 17:49:40 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='手机号']】输入了【17850515617】
+2020-03-27 17:49:40 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='密码']】输入了【123456】
+2020-03-27 17:49:40 method: com.lemon.common.BasePage.click(BasePage.java:26) - [ INFO ]----点击了元素【By.xpath: //button[text()='登录']】
+2020-03-27 17:50:10 method: com.lemon.utils.BrowserUtil.openBrowser(BrowserUtil.java:33) - [ INFO ]----=============打开Chrome浏览器=========
+2020-03-27 17:50:10 method: com.lemon.utils.BrowserUtil.maxBrowser(BrowserUtil.java:73) - [ INFO ]----===============浏览器最大化================
+2020-03-27 17:50:19 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='手机号']】输入了【17850515617】
+2020-03-27 17:50:19 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='密码']】输入了【123456】
+2020-03-27 17:50:19 method: com.lemon.common.BasePage.click(BasePage.java:26) - [ INFO ]----点击了元素【By.xpath: //button[text()='登录']】
+2020-03-27 17:50:47 method: com.lemon.utils.BrowserUtil.openBrowser(BrowserUtil.java:33) - [ INFO ]----=============打开Chrome浏览器=========
+2020-03-27 17:50:47 method: com.lemon.utils.BrowserUtil.maxBrowser(BrowserUtil.java:73) - [ INFO ]----===============浏览器最大化================
+2020-03-27 17:50:52 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='手机号']】输入了【17850515617】
+2020-03-27 17:50:52 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='密码']】输入了【123456】
+2020-03-27 17:50:52 method: com.lemon.common.BasePage.click(BasePage.java:26) - [ INFO ]----点击了元素【By.xpath: //button[text()='登录']】
+2020-03-27 17:51:21 method: com.lemon.utils.BrowserUtil.openBrowser(BrowserUtil.java:33) - [ INFO ]----=============打开Chrome浏览器=========
+2020-03-27 17:51:21 method: com.lemon.utils.BrowserUtil.maxBrowser(BrowserUtil.java:73) - [ INFO ]----===============浏览器最大化================
+2020-03-27 17:51:24 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='手机号']】输入了【17850515617】
+2020-03-27 17:51:24 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='密码']】输入了【123456】
+2020-03-27 17:51:24 method: com.lemon.common.BasePage.click(BasePage.java:26) - [ INFO ]----点击了元素【By.xpath: //button[text()='登录']】
+2020-03-27 17:51:52 method: com.lemon.utils.BrowserUtil.openBrowser(BrowserUtil.java:33) - [ INFO ]----=============打开Chrome浏览器=========
+2020-03-27 17:51:52 method: com.lemon.utils.BrowserUtil.maxBrowser(BrowserUtil.java:73) - [ INFO ]----===============浏览器最大化================
+2020-03-27 17:51:55 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='手机号']】输入了【17850515617】
+2020-03-27 17:51:55 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='密码']】输入了【123456】
+2020-03-27 17:51:55 method: com.lemon.common.BasePage.click(BasePage.java:26) - [ INFO ]----点击了元素【By.xpath: //button[text()='登录']】
+2020-03-27 17:52:25 method: com.lemon.utils.BrowserUtil.openBrowser(BrowserUtil.java:33) - [ INFO ]----=============打开Chrome浏览器=========
+2020-03-27 17:52:25 method: com.lemon.utils.BrowserUtil.maxBrowser(BrowserUtil.java:73) - [ INFO ]----===============浏览器最大化================
+2020-03-27 17:52:29 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='手机号']】输入了【17850515617】
+2020-03-27 17:52:29 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='密码']】输入了【123456】
+2020-03-27 17:52:34 method: com.lemon.common.BasePage.click(BasePage.java:26) - [ INFO ]----点击了元素【By.xpath: //button[text()='登录']】
+2020-03-27 17:53:04 method: com.lemon.utils.BrowserUtil.openBrowser(BrowserUtil.java:33) - [ INFO ]----=============打开Chrome浏览器=========
+2020-03-27 17:53:04 method: com.lemon.utils.BrowserUtil.maxBrowser(BrowserUtil.java:73) - [ INFO ]----===============浏览器最大化================
+2020-03-27 17:53:08 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='手机号']】输入了【17850515617】
+2020-03-27 17:53:08 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='密码']】输入了【123456】
+2020-03-27 17:53:08 method: com.lemon.common.BasePage.click(BasePage.java:26) - [ INFO ]----点击了元素【By.xpath: //button[text()='登录']】
+2020-03-27 17:53:37 method: com.lemon.utils.BrowserUtil.openBrowser(BrowserUtil.java:33) - [ INFO ]----=============打开Chrome浏览器=========
+2020-03-27 17:53:37 method: com.lemon.utils.BrowserUtil.maxBrowser(BrowserUtil.java:73) - [ INFO ]----===============浏览器最大化================
+2020-03-27 17:53:41 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='手机号']】输入了【17850515617】
+2020-03-27 17:53:41 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='密码']】输入了【123456】
+2020-03-27 17:53:41 method: com.lemon.common.BasePage.click(BasePage.java:26) - [ INFO ]----点击了元素【By.xpath: //button[text()='登录']】
+2020-03-27 18:00:20 method: com.lemon.utils.BrowserUtil.openBrowser(BrowserUtil.java:33) - [ INFO ]----=============打开Chrome浏览器=========
+2020-03-27 18:00:20 method: com.lemon.utils.BrowserUtil.maxBrowser(BrowserUtil.java:73) - [ INFO ]----===============浏览器最大化================
+2020-03-27 18:00:23 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='手机号']】输入了【17850515617】
+2020-03-27 18:00:23 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='密码']】输入了【123456】
+2020-03-27 18:00:23 method: com.lemon.common.BasePage.click(BasePage.java:26) - [ INFO ]----点击了元素【By.xpath: //button[text()='登录']】
+2020-03-27 18:01:03 method: com.lemon.utils.BrowserUtil.openBrowser(BrowserUtil.java:33) - [ INFO ]----=============打开Chrome浏览器=========
+2020-03-27 18:01:03 method: com.lemon.utils.BrowserUtil.maxBrowser(BrowserUtil.java:73) - [ INFO ]----===============浏览器最大化================
+2020-03-27 18:01:07 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='手机号']】输入了【17850515617】
+2020-03-27 18:01:07 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='密码']】输入了【123456】
+2020-03-27 18:01:07 method: com.lemon.common.BasePage.click(BasePage.java:26) - [ INFO ]----点击了元素【By.xpath: //button[text()='登录']】
+2020-03-27 18:01:43 method: com.lemon.utils.BrowserUtil.openBrowser(BrowserUtil.java:33) - [ INFO ]----=============打开Chrome浏览器=========
+2020-03-27 18:01:43 method: com.lemon.utils.BrowserUtil.maxBrowser(BrowserUtil.java:73) - [ INFO ]----===============浏览器最大化================
+2020-03-27 18:03:57 method: com.lemon.utils.BrowserUtil.openBrowser(BrowserUtil.java:33) - [ INFO ]----=============打开Chrome浏览器=========
+2020-03-27 18:03:57 method: com.lemon.utils.BrowserUtil.maxBrowser(BrowserUtil.java:73) - [ INFO ]----===============浏览器最大化================
+2020-03-27 18:04:01 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='手机号']】输入了【17850515617】
+2020-03-27 18:04:01 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='密码']】输入了【123456】
+2020-03-27 18:04:02 method: com.lemon.common.BasePage.click(BasePage.java:26) - [ INFO ]----点击了元素【By.xpath: //button[text()='登录']】
+2020-03-27 18:04:55 method: com.lemon.common.BasePage.click(BasePage.java:26) - [ INFO ]----点击了元素【By.xpath: //span[contains(text(),'')]/parent::div/parent::a/following-sibling::div/div[3]/div/a】
+2020-03-27 18:04:56 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.xpath: //input[@data-url='/Invest/invest']】输入了【200】
+2020-03-27 18:04:56 method: com.lemon.common.BasePage.click(BasePage.java:26) - [ INFO ]----点击了元素【By.xpath: //button[text()='投标']】
+2020-03-27 18:04:56 method: com.lemon.common.BasePage.getElementText(BasePage.java:45) - [ INFO ]----获取元素【By.xpath: //button[contains(@class,'btn-special')]】文本值为【投标】
+2020-03-27 18:04:56 method: com.lemon.common.BasePage.click(BasePage.java:26) - [ INFO ]----点击了元素【By.xpath: //button[contains(@class,'btn-special')]】
+2020-03-27 18:05:07 method: com.lemon.utils.BrowserUtil.openBrowser(BrowserUtil.java:33) - [ INFO ]----=============打开Chrome浏览器=========
+2020-03-27 18:05:07 method: com.lemon.utils.BrowserUtil.maxBrowser(BrowserUtil.java:73) - [ INFO ]----===============浏览器最大化================
+2020-03-27 18:05:15 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='手机号']】输入了【17850515617】
+2020-03-27 18:05:15 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='密码']】输入了【123456】
+2020-03-27 18:05:16 method: com.lemon.common.BasePage.click(BasePage.java:26) - [ INFO ]----点击了元素【By.xpath: //button[text()='登录']】
+2020-03-27 18:06:04 method: com.lemon.common.BasePage.click(BasePage.java:26) - [ INFO ]----点击了元素【By.xpath: //span[contains(text(),'')]/parent::div/parent::a/following-sibling::div/div[3]/div/a】
+2020-03-27 18:06:04 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.xpath: //input[@data-url='/Invest/invest']】输入了【200】
+2020-03-27 18:06:04 method: com.lemon.common.BasePage.click(BasePage.java:26) - [ INFO ]----点击了元素【By.xpath: //button[text()='投标']】
+2020-03-27 18:06:04 method: com.lemon.common.BasePage.getElementText(BasePage.java:45) - [ INFO ]----获取元素【By.xpath: //button[contains(@class,'btn-special')]】文本值为【投标】
+2020-03-27 18:06:04 method: com.lemon.common.BasePage.click(BasePage.java:26) - [ INFO ]----点击了元素【By.xpath: //button[contains(@class,'btn-special')]】
+2020-03-27 18:06:21 method: com.lemon.utils.BrowserUtil.openBrowser(BrowserUtil.java:33) - [ INFO ]----=============打开Chrome浏览器=========
+2020-03-27 18:06:21 method: com.lemon.utils.BrowserUtil.maxBrowser(BrowserUtil.java:73) - [ INFO ]----===============浏览器最大化================
+2020-03-27 18:06:35 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='手机号']】输入了【17850515617】
+2020-03-27 18:06:35 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='密码']】输入了【123456】
+2020-03-27 18:06:40 method: com.lemon.common.BasePage.click(BasePage.java:26) - [ INFO ]----点击了元素【By.xpath: //button[text()='登录']】
+2020-03-27 23:35:41 method: com.lemon.utils.BrowserUtil.openBrowser(BrowserUtil.java:33) - [ INFO ]----=============打开Chrome浏览器=========
+2020-03-27 23:35:41 method: com.lemon.utils.BrowserUtil.maxBrowser(BrowserUtil.java:73) - [ INFO ]----===============浏览器最大化================
+2020-03-27 23:35:44 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='手机号']】输入了【17850515617】
+2020-03-27 23:35:44 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='密码']】输入了【123456】
+2020-03-27 23:35:45 method: com.lemon.common.BasePage.click(BasePage.java:26) - [ INFO ]----点击了元素【By.xpath: //button[text()='登录']】
+2020-03-27 23:36:30 method: com.lemon.common.BasePage.click(BasePage.java:26) - [ INFO ]----点击了元素【By.xpath: //span[contains(text(),'')]/parent::div/parent::a/following-sibling::div/div[3]/div/a】
+2020-03-27 23:36:30 method: com.lemon.common.BasePage.getElementText(BasePage.java:45) - [ INFO ]----获取元素【By.xpath: //button[contains(@class,'btn-special')]】文本值为【投标】
+2020-03-27 23:36:42 method: com.lemon.utils.BrowserUtil.openBrowser(BrowserUtil.java:33) - [ INFO ]----=============打开Chrome浏览器=========
+2020-03-27 23:36:42 method: com.lemon.utils.BrowserUtil.maxBrowser(BrowserUtil.java:73) - [ INFO ]----===============浏览器最大化================
+2020-03-27 23:36:45 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='手机号']】输入了【17850515617】
+2020-03-27 23:36:45 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='密码']】输入了【123456】
+2020-03-27 23:36:45 method: com.lemon.common.BasePage.click(BasePage.java:26) - [ INFO ]----点击了元素【By.xpath: //button[text()='登录']】
+2020-03-27 23:37:31 method: com.lemon.common.BasePage.click(BasePage.java:26) - [ INFO ]----点击了元素【By.xpath: //span[contains(text(),'')]/parent::div/parent::a/following-sibling::div/div[3]/div/a】
+2020-03-27 23:37:31 method: com.lemon.common.BasePage.getElementText(BasePage.java:45) - [ INFO ]----获取元素【By.xpath: //button[contains(@class,'btn-special')]】文本值为【投标】
+2020-03-27 23:37:44 method: com.lemon.utils.BrowserUtil.openBrowser(BrowserUtil.java:33) - [ INFO ]----=============打开Chrome浏览器=========
+2020-03-27 23:37:44 method: com.lemon.utils.BrowserUtil.maxBrowser(BrowserUtil.java:73) - [ INFO ]----===============浏览器最大化================
+2020-03-27 23:37:47 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='手机号']】输入了【17850515617】
+2020-03-27 23:37:47 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='密码']】输入了【123456】
+2020-03-27 23:37:47 method: com.lemon.common.BasePage.click(BasePage.java:26) - [ INFO ]----点击了元素【By.xpath: //button[text()='登录']】
+2020-03-27 23:38:33 method: com.lemon.common.BasePage.click(BasePage.java:26) - [ INFO ]----点击了元素【By.xpath: //span[contains(text(),'')]/parent::div/parent::a/following-sibling::div/div[3]/div/a】
+2020-03-27 23:38:33 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.xpath: //input[@data-url='/Invest/invest']】输入了【200】
+2020-03-27 23:38:33 method: com.lemon.common.BasePage.click(BasePage.java:26) - [ INFO ]----点击了元素【By.xpath: //button[text()='投标']】
+2020-03-27 23:41:44 method: com.lemon.utils.BrowserUtil.openBrowser(BrowserUtil.java:33) - [ INFO ]----=============打开Chrome浏览器=========
+2020-03-27 23:41:44 method: com.lemon.utils.BrowserUtil.maxBrowser(BrowserUtil.java:73) - [ INFO ]----===============浏览器最大化================
+2020-03-27 23:41:47 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='手机号']】输入了【17850515617】
+2020-03-27 23:41:47 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='密码']】输入了【123456】
+2020-03-27 23:41:47 method: com.lemon.common.BasePage.click(BasePage.java:26) - [ INFO ]----点击了元素【By.xpath: //button[text()='登录']】
+2020-03-27 23:42:33 method: com.lemon.common.BasePage.click(BasePage.java:26) - [ INFO ]----点击了元素【By.xpath: //span[contains(text(),'')]/parent::div/parent::a/following-sibling::div/div[3]/div/a】
+2020-03-27 23:42:44 method: com.lemon.utils.BrowserUtil.openBrowser(BrowserUtil.java:33) - [ INFO ]----=============打开Chrome浏览器=========
+2020-03-27 23:42:44 method: com.lemon.utils.BrowserUtil.maxBrowser(BrowserUtil.java:73) - [ INFO ]----===============浏览器最大化================
+2020-03-27 23:42:47 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='手机号']】输入了【17850515617】
+2020-03-27 23:42:47 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='密码']】输入了【123456】
+2020-03-27 23:42:47 method: com.lemon.common.BasePage.click(BasePage.java:26) - [ INFO ]----点击了元素【By.xpath: //button[text()='登录']】
+2020-03-27 23:43:37 method: com.lemon.common.BasePage.click(BasePage.java:26) - [ INFO ]----点击了元素【By.xpath: //span[contains(text(),'')]/parent::div/parent::a/following-sibling::div/div[3]/div/a】
+2020-03-27 23:43:48 method: com.lemon.utils.BrowserUtil.openBrowser(BrowserUtil.java:33) - [ INFO ]----=============打开Chrome浏览器=========
+2020-03-27 23:43:48 method: com.lemon.utils.BrowserUtil.maxBrowser(BrowserUtil.java:73) - [ INFO ]----===============浏览器最大化================
+2020-03-27 23:53:36 method: com.lemon.utils.BrowserUtil.openBrowser(BrowserUtil.java:33) - [ INFO ]----=============打开Chrome浏览器=========
+2020-03-27 23:53:36 method: com.lemon.utils.BrowserUtil.maxBrowser(BrowserUtil.java:73) - [ INFO ]----===============浏览器最大化================
+2020-03-27 23:53:39 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='手机号']】输入了【17850515617】
+2020-03-27 23:53:39 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='密码']】输入了【123456】
+2020-03-27 23:53:39 method: com.lemon.common.BasePage.click(BasePage.java:26) - [ INFO ]----点击了元素【By.xpath: //button[text()='登录']】
+2020-03-27 23:54:25 method: com.lemon.common.BasePage.click(BasePage.java:26) - [ INFO ]----点击了元素【By.xpath: //span[contains(text(),'')]/parent::div/parent::a/following-sibling::div/div[3]/div/a】
+2020-03-27 23:54:25 method: com.lemon.common.BasePage.getElementText(BasePage.java:45) - [ INFO ]----获取元素【By.xpath: //button[contains(@class,'btn-special')]】文本值为【投标】
+2020-03-27 23:54:25 method: com.lemon.common.BasePage.getElementText(BasePage.java:45) - [ INFO ]----获取元素【By.xpath: //button[contains(@class,'btn-special')]】文本值为【投标】
+2020-03-27 23:54:38 method: com.lemon.utils.BrowserUtil.openBrowser(BrowserUtil.java:33) - [ INFO ]----=============打开Chrome浏览器=========
+2020-03-27 23:54:38 method: com.lemon.utils.BrowserUtil.maxBrowser(BrowserUtil.java:73) - [ INFO ]----===============浏览器最大化================
+2020-03-27 23:54:41 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='手机号']】输入了【17850515617】
+2020-03-27 23:54:41 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='密码']】输入了【123456】
+2020-03-27 23:54:41 method: com.lemon.common.BasePage.click(BasePage.java:26) - [ INFO ]----点击了元素【By.xpath: //button[text()='登录']】
+2020-03-27 23:55:27 method: com.lemon.common.BasePage.click(BasePage.java:26) - [ INFO ]----点击了元素【By.xpath: //span[contains(text(),'')]/parent::div/parent::a/following-sibling::div/div[3]/div/a】
+2020-03-27 23:55:27 method: com.lemon.common.BasePage.getElementText(BasePage.java:45) - [ INFO ]----获取元素【By.xpath: //button[contains(@class,'btn-special')]】文本值为【投标】
+2020-03-27 23:55:27 method: com.lemon.common.BasePage.getElementText(BasePage.java:45) - [ INFO ]----获取元素【By.xpath: //button[contains(@class,'btn-special')]】文本值为【投标】
+2020-03-27 23:55:40 method: com.lemon.utils.BrowserUtil.openBrowser(BrowserUtil.java:33) - [ INFO ]----=============打开Chrome浏览器=========
+2020-03-27 23:55:40 method: com.lemon.utils.BrowserUtil.maxBrowser(BrowserUtil.java:73) - [ INFO ]----===============浏览器最大化================
+2020-03-27 23:55:43 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='手机号']】输入了【17850515617】
+2020-03-27 23:55:43 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='密码']】输入了【123456】
+2020-03-27 23:55:48 method: com.lemon.common.BasePage.click(BasePage.java:26) - [ INFO ]----点击了元素【By.xpath: //button[text()='登录']】
+2020-03-27 23:56:39 method: com.lemon.common.BasePage.click(BasePage.java:26) - [ INFO ]----点击了元素【By.xpath: //span[contains(text(),'')]/parent::div/parent::a/following-sibling::div/div[3]/div/a】
+2020-03-27 23:56:39 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.xpath: //input[@data-url='/Invest/invest']】输入了【200】
+2020-03-27 23:56:44 method: com.lemon.common.BasePage.click(BasePage.java:26) - [ INFO ]----点击了元素【By.xpath: //button[text()='投标']】
+2020-03-27 23:58:06 method: com.lemon.utils.BrowserUtil.openBrowser(BrowserUtil.java:33) - [ INFO ]----=============打开Chrome浏览器=========
+2020-03-27 23:58:06 method: com.lemon.utils.BrowserUtil.maxBrowser(BrowserUtil.java:73) - [ INFO ]----===============浏览器最大化================
+2020-03-27 23:58:08 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='手机号']】输入了【17850515617】
+2020-03-27 23:58:08 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='密码']】输入了【123456】
+2020-03-27 23:58:09 method: com.lemon.common.BasePage.click(BasePage.java:26) - [ INFO ]----点击了元素【By.xpath: //button[text()='登录']】
+2020-03-27 23:58:54 method: com.lemon.common.BasePage.click(BasePage.java:26) - [ INFO ]----点击了元素【By.xpath: //span[contains(text(),'')]/parent::div/parent::a/following-sibling::div/div[3]/div/a】
+2020-03-27 23:58:55 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.xpath: //input[@data-url='/Invest/invest']】输入了【0】
+2020-03-27 23:58:55 method: com.lemon.common.BasePage.getElementText(BasePage.java:45) - [ INFO ]----获取元素【By.xpath: //button[contains(@class,'btn-special')]】文本值为【投标】
+2020-03-27 23:58:55 method: com.lemon.common.BasePage.getElementText(BasePage.java:45) - [ INFO ]----获取元素【By.xpath: //button[contains(@class,'btn-special')]】文本值为【投标】
+2020-03-27 23:58:55 method: com.lemon.common.BasePage.click(BasePage.java:26) - [ INFO ]----点击了元素【By.xpath: //button[contains(@class,'btn-special')]】
+2020-03-27 23:59:02 method: com.lemon.utils.BrowserUtil.openBrowser(BrowserUtil.java:33) - [ INFO ]----=============打开Chrome浏览器=========
+2020-03-27 23:59:02 method: com.lemon.utils.BrowserUtil.maxBrowser(BrowserUtil.java:73) - [ INFO ]----===============浏览器最大化================
+2020-03-27 23:59:05 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='手机号']】输入了【17850515617】
+2020-03-27 23:59:06 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.cssSelector: input[placeholder='密码']】输入了【123456】
+2020-03-27 23:59:06 method: com.lemon.common.BasePage.click(BasePage.java:26) - [ INFO ]----点击了元素【By.xpath: //button[text()='登录']】
+2020-03-27 23:59:51 method: com.lemon.common.BasePage.click(BasePage.java:26) - [ INFO ]----点击了元素【By.xpath: //span[contains(text(),'')]/parent::div/parent::a/following-sibling::div/div[3]/div/a】
+2020-03-27 23:59:51 method: com.lemon.common.BasePage.type(BasePage.java:32) - [ INFO ]----往元素【By.xpath: //input[@data-url='/Invest/invest']】输入了【99】
+2020-03-27 23:59:51 method: com.lemon.common.BasePage.getElementText(BasePage.java:45) - [ INFO ]----获取元素【By.xpath: //button[contains(@class,'btn-special')]】文本值为【请输入10的整数倍】
+2020-03-27 23:59:51 method: com.lemon.common.BasePage.getElementText(BasePage.java:45) - [ INFO ]----获取元素【By.xpath: //button[contains(@class,'btn-special')]】文本值为【请输入10的整数倍】
+2020-03-27 23:59:58 method: com.lemon.utils.BrowserUtil.openBrowser(BrowserUtil.java:33) - [ INFO ]----=============打开Chrome浏览器=========
+2020-03-27 23:59:58 method: com.lemon.utils.BrowserUtil.maxBrowser(BrowserUtil.java:73) - [ INFO ]----===============浏览器最大化================

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Web自动化项目]">
+  <parameter name="browserName" value="chrome"/>
+  <listeners>
+    <listener class-name="com.lemon.listener.AllureReportListener"/>
+  </listeners>
+  <test thread-count="5" name="前程贷(failed)">
+    <classes>
+      <class name="com.lemon.testcases.Invert">
+        <methods>
+          <include name="testInvest_fail02" invocation-numbers="0"/>
+          <include name="setUp"/>
+          <include name="tearDownSuite"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.lemon.testcases.Invert -->
+    </classes>
+  </test> <!-- 前程贷(failed) -->
+</suite> <!-- Failed suite [Web自动化项目] -->

@@ -1,0 +1,7 @@
+2020-03-22 19:27:40 method: com.lemon.testcases.AddProjectHomework.setUp(AddProjectHomework.java:30) - [ INFO ]----========================打开网址===========================
+2020-03-22 19:27:45 method: com.lemon.testcases.AddProjectHomework.tearDown(AddProjectHomework.java:87) - [ INFO ]----========================关闭浏览器===========================
+2020-03-22 19:28:52 method: com.lemon.testcases.AddProjectHomework.setUp(AddProjectHomework.java:30) - [ INFO ]----========================打开网址===========================
+2020-03-22 19:29:06 method: com.lemon.testcases.AddProjectHomework.tearDown(AddProjectHomework.java:87) - [ INFO ]----========================关闭浏览器===========================
+2020-03-22 19:41:28 method: com.lemon.testcases.AddProjectHomework.setUp(AddProjectHomework.java:30) - [ INFO ]----========================打开网址===========================
+2020-03-22 19:41:36 method: com.lemon.testcases.AddProjectHomework.testLogin_success(AddProjectHomework.java:80) - [ INFO ]----========================断言实际值:不能重复添加===断言期望值:添加成功=========
+2020-03-22 19:41:36 method: com.lemon.testcases.AddProjectHomework.tearDown(AddProjectHomework.java:87) - [ INFO ]----========================关闭浏览器===========================

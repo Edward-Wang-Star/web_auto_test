@@ -1,0 +1,6 @@
+2020-03-18 20:14:46 method: web_auto_day05.JSScroll.setUP(JSScroll.java:29) - [ INFO ]----驱动初始化成功：ChromeDriver: chrome on XP (adb9df65395f86210233e9f3005029ea)
+2020-03-18 20:14:46 method: web_auto_day05.JSScroll.setUP(JSScroll.java:31) - [ INFO ]----=======打开论坛=====
+2020-03-18 20:14:49 method: web_auto_day05.JSScroll.JSScrollTest(JSScroll.java:67) - [ INFO ]----当前文章：登录 · Lemfix
+2020-03-18 20:14:49 method: web_auto_day05.JSScroll.JSScrollTest(JSScroll.java:68) - [ INFO ]----当前url：http://www.lemfix.com/account/sign_in
+2020-03-18 20:14:51 method: web_auto_day05.JSScroll.JSScrollTest(JSScroll.java:83) - [ INFO ]----======程序结束！======
+2020-03-18 20:14:53 method: web_auto_day05.JSScroll.tearDown(JSScroll.java:92) - [ INFO ]----======程序结束！======

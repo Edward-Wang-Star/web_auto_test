@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="282" started-at="2020-03-28T12:52:47Z" finished-at="2020-03-28T12:52:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="282" started-at="2020-03-28T12:52:47Z" finished-at="2020-03-28T12:52:48Z">
+      <class name="com.lemon.pageobject.NewTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.lemon.pageobject.NewTest@5ddea849]" name="beforeSuite" is-config="true" duration-ms="43" started-at="2020-03-28T12:52:47Z" finished-at="2020-03-28T12:52:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.lemon.pageobject.NewTest@5ddea849]" name="beforeTest" is-config="true" duration-ms="0" started-at="2020-03-28T12:52:47Z" finished-at="2020-03-28T12:52:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.lemon.pageobject.NewTest@5ddea849]" name="beforeClass" is-config="true" duration-ms="1" started-at="2020-03-28T12:52:47Z" finished-at="2020-03-28T12:52:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.lemon.pageobject.NewTest@5ddea849]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2020-03-28T12:52:47Z" finished-at="2020-03-28T12:52:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testCase1()[pri:0, instance:com.lemon.pageobject.NewTest@5ddea849]" name="testCase1" duration-ms="68" started-at="2020-03-28T12:52:48Z" finished-at="2020-03-28T12:52:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.lemon.pageobject.NewTest@5ddea849]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-03-28T12:52:48Z" finished-at="2020-03-28T12:52:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.lemon.pageobject.NewTest@5ddea849]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2020-03-28T12:52:48Z" finished-at="2020-03-28T12:52:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testCase2()[pri:0, instance:com.lemon.pageobject.NewTest@5ddea849]" name="testCase2" duration-ms="3" started-at="2020-03-28T12:52:48Z" finished-at="2020-03-28T12:52:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.lemon.pageobject.NewTest@5ddea849]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-03-28T12:52:48Z" finished-at="2020-03-28T12:52:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.lemon.pageobject.NewTest@5ddea849]" name="afterClass" is-config="true" duration-ms="1" started-at="2020-03-28T12:52:48Z" finished-at="2020-03-28T12:52:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.lemon.pageobject.NewTest@5ddea849]" name="afterTest" is-config="true" duration-ms="1" started-at="2020-03-28T12:52:48Z" finished-at="2020-03-28T12:52:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.lemon.pageobject.NewTest@5ddea849]" name="afterSuite" is-config="true" duration-ms="0" started-at="2020-03-28T12:52:48Z" finished-at="2020-03-28T12:52:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.lemon.pageobject.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

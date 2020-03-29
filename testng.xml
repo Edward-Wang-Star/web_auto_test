@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Web自动化项目" parallel="false"><!-- Suite套件/项目 -->
+	<parameter name="browserName" value="chrome"></parameter>
+	<test name="前程贷"><!-- 模块 -->
+		<classes>
+			<class name="com.lemon.testcases.Login" />
+			<class name="com.lemon.testcases.Invert" />
+		</classes>
+	</test> <!-- Test -->
+	
+	<listeners>
+		<!-- 报表的监听器，监听用例的执行结果，截图 -->
+		<listener
+			class-name="com.lemon.listener.AllureReportListener"></listener>
+	</listeners>
+</suite> <!-- Suite -->

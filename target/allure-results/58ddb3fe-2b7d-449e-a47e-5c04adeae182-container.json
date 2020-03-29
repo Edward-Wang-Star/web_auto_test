@@ -1,0 +1,1 @@
+{"uuid":"58ddb3fe-2b7d-449e-a47e-5c04adeae182","name":"Web自动化项目","children":["6bb408e8-b08c-4589-8c6e-8418da78841e"],"befores":[],"afters":[{"name":"tearDownSuite","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1585383840246,"stop":1585383840246}],"links":[],"start":1585383788497,"stop":1585383840246}
