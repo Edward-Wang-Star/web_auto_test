@@ -27,7 +27,7 @@ public class Login extends BaseTest {
 		BrowserUtil.driver.get(Constants.LOGIN_URL);
 	}
 
-	@Test(enabled = false)
+	@Test
 	public void testLogin_success() {
 		//你需要用到哪个页面的元素，实例化对应的页面
 		LoginPage loginPage = new LoginPage();
@@ -72,7 +72,7 @@ public class Login extends BaseTest {
 	/**
 	 * 记住“手机号码”功能验证
 	 */
-	@Test
+	@Test(enabled = false)
 	public void testRemeberMobilehone() {
 		LoginPage loginPage = new LoginPage();
 		IndexPage indexPage = new IndexPage();

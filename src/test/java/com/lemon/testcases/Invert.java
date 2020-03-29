@@ -42,7 +42,7 @@ public class Invert extends BaseTest {
 	/**
 	 * 投资成功
 	 */
-	@Test(enabled = false, priority = 1)
+	@Test(priority = 1)
 	public void testInvest_success() {
 		InvertPage invertPage = new InvertPage();
 		IndexPage indexPage = new IndexPage();
@@ -126,7 +126,7 @@ public class Invert extends BaseTest {
 	 * @param by
 	 * @param expectedValue
 	 */
-	@Test(dataProviderClass = InvertData.class, dataProvider = "Invest_failDatas02", priority = 4)
+	@Test(dataProviderClass = InvertData.class, dataProvider = "Invest_failDatas02", priority = 4,enabled = false)
 	public void testInvest_fail02(By by, String expectedValue) {
 		InvertPage invertPage = new InvertPage();
 		IndexPage indexPage = new IndexPage();
